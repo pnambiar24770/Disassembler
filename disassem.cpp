@@ -1,6 +1,5 @@
 /*
 Pranav Nambiar
-826414479
 CS-530
 */
 #include <iostream>
